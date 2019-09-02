@@ -1,4 +1,18 @@
-# SafeVelocity
+# SAFe Suite
+
+This is a suite of tools to help SAFe or scrum teams do things like calculated velocity based on team structure, point in refinement, and give a fist of five estimate.
+
+Check out the live demo here [https://jr33d.github.io/safe-suite]
+
+
+
+
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
 

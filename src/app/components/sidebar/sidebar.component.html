@@ -1,0 +1,9 @@
+<div class="sidebar-wrapper">
+    <ul class="nav flex-column">
+        <li routerLinkActive="active" *ngFor="let menuItem of menuItems" class="{{menuItem.class}} nav-item">
+            <a class="nav-link" [routerLink]="[menuItem.path]">
+                <span><i class="material-icons">{{menuItem.icon}}</i>{{menuItem.title}}</span>
+            </a>
+        </li>
+    </ul>
+</div>
